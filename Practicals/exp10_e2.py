@@ -1,0 +1,6 @@
+a = input("Enter a String : ")
+print(f"Counting S in String : ", a.count('S'))
+print(f"Capitalizing String : ", a.capitalize())
+print(f"Upper Case String : ", a.upper())
+print(f"Lower Case String : ", a.lower())
+print(f"String Contains Whitespace : ", a.isspace())
